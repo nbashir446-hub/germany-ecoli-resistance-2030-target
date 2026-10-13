@@ -55,7 +55,7 @@ Analysis of antimicrobial resistance (AMR) trends, burden metrics and 2030 EU ta
 │   └── test_questions.csv         # test questions with expected answers
 ├── app.py                         # run the chatbot outside Colab
 ├── requirements.txt
-├── Dashboard/                     # Power BI file, Tableau workbook and PDF export
+├── Dashboard/                     # Power BI file, Tableau PDF export
 ├── report/
 │   └── AMR_Project_Report.docx    # written report
 └── README.md
