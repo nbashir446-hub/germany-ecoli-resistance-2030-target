@@ -46,14 +46,16 @@ Analysis of antimicrobial resistance (AMR) trends, burden metrics and 2030 EU ta
 ## 📁 Repository Structure
 
 ```
-├── notebook/
+├── notebooks/
 │   ├── 01_amr_analysis.ipynb      # merge, calculated incidence, regression, charts, target check
 │   └── 02_amr_chatbot.ipynb       # chatbot
-├── data/                          # four input CSVs and two result CSVs
-├── chatbot/
+├── Data/                          # four input CSVs and two result CSVs
+├── Chatbot/
 │   ├── results_sources.md         # text the chatbot searches
 │   └── test_questions.csv         # test questions with expected answers
-├── dashboard/                     # Power BI file, Tableau Public and PDF export
+├── app.py                         # run the chatbot outside Colab
+├── requirements.txt
+├── Dashboard/                     # Power BI file, Tableau workbook and PDF export
 ├── report/
 │   └── AMR_Project_Report.docx    # written report
 └── README.md
