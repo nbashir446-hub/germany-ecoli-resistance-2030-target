@@ -1,0 +1,16 @@
+question,expected_answer
+Is Germany on track to meet its 2030 target?,"Yes. Germany's incidence is 10.2 (2023), below its 2030 target of 10.6."
+What was Germany's 2019 baseline incidence?,"12.0 per 100,000."
+What is Germany's 2030 target?,"10.6 per 100,000, a 12% reduction."
+Which countries are at or below their 2030 target?,"Italy, Denmark, Germany and the Netherlands."
+Which countries are above their 2030 target?,"Austria, Sweden, Poland and Spain."
+Which country moved in the wrong direction the most?,"Spain, +29.5% from the 2019 baseline."
+How much did Italy's incidence change since 2019?,-24.7% (23.0 to 17.3 in 2022).
+What is Poland's regression slope for % resistant?,+0.71 percentage points per year.
+Which country has the steepest falling trend in % resistant?,"Italy, -0.52 points per year."
+How reliable is the regression for Germany?,"Weak, R2 = 0.28; Germany rose until 2017 then fell, so it shows direction only."
+Why use incidence and not only % resistant?,"They can move in opposite directions, e.g. Italy's % fell while its incidence rose."
+What was Germany's % resistant in 2024?,About 10.6%.
+What is the 2030 target for Sweden?,"8.3 per 100,000 (latest 9.1), so Sweden is above target."
+What is the capital of France? (out-of-scope check),The bot should say it cannot answer from the project data.
+What will Germany's incidence be in 2030? (no forecast in data),The bot should say the project has no forecast; the regression shows direction only.
