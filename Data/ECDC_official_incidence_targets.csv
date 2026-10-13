@@ -1,0 +1,9 @@
+country,baseline_2019,latest_year,latest_value,change_pct,target_2030,target_reduction_pct,target_type
+Italy,23.0,2022,17.3,-24.7,20.2,-12,reduction
+Germany,12.0,2023,10.2,-14.9,10.6,-12,reduction
+Sweden,9.2,2023,9.1,-1.7,8.3,-10,reduction
+Spain,7.8,2022,10.2,29.5,7.1,-10,reduction
+Poland,7.4,2023,7.8,4.4,6.7,-10,reduction
+Austria,7.1,2023,6.6,-7.6,,,unconfirmed
+Denmark,6.6,2023,5.61,-15.1,,,unconfirmed
+Netherlands,4.5,2022,4.3,-5.4,4.5,0,maintain_baseline
