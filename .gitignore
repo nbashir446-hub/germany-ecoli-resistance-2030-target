@@ -1,0 +1,9 @@
+# Keys and secrets
+.env
+*.key
+
+# Python / Colab
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+storage*/
