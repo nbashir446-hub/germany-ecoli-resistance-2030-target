@@ -40,8 +40,8 @@ Analysis of antimicrobial resistance (AMR) trends, burden metrics and 2030 EU ta
 ## 🤖 Technical Extensions & RAG Chatbot (LlamaIndex, Groq, Gradio)
 
 - **Interactive Assistant:** An assistant that answers only from the project results and the ECDC report (notebook/02_amr_chatbot.ipynb, source files in chatbot/). It refuses questions outside the data and shows the evidence it used.
-
-**Security:** add your own Groq key as a Colab secret named `GROQ_API_KEY`. Never commit a key to the repository.
+- **Run it:** pip install -r requirements.txt, set the environment variable GROQ_API_KEY, then python app.py. In Colab, use notebook/02_amr_chatbot.ipynb and add the key as a Colab secret named GROQ_API_KEY.
+- **Security:** add your own Groq key as a Colab secret named `GROQ_API_KEY`. Never commit a key to the repository.
 
 ## 📁 Repository Structure
 
